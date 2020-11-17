@@ -1,0 +1,16 @@
+
+
+https://blog.csdn.net/u011796274/article/details/38682839 ----------github分支权限怎么使用,但是是14年的教程
+
+
+
+
+https://blog.csdn.net/pdw_jsp/article/details/81318626 -----------------关于分支使用的扩展进阶(企业级使用)
+
+
+https://git-scm.com/   ---------一个教程网址,专门教怎么使用git(英文)
+
+
+
+
+https://jingyan.baidu.com/article/215817f788f0c21eda1423f2.html -----------扩展:怎么删除git的仓库(借鉴)
